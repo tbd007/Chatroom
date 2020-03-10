@@ -1,4 +1,5 @@
 # Chatroom
-Real time chat
+Real time chat with 3 chatrooms.
+Made using: HTML, CSS, JS, NoSQL(Firebase), Local Storage
 
-Download repository and open chat.html file.
+Download repository and open index.html file in your browser.
