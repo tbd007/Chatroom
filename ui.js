@@ -1,6 +1,3 @@
-//render chat templates to DOM
-//clear list of chats when room changes
-
 class ChatUI {
     constructor(list){
         this.list = list;
