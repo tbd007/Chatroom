@@ -1,12 +1,3 @@
-//add new chat documents
-
-//setting up real time listener
-
-//updating username
-
-//updating room
-
-
 class Chatroom {
     constructor(room, username){
         this.room = room;
@@ -53,6 +44,11 @@ class Chatroom {
         }
     }
 }
+
+
+
+
+
 
 
 
