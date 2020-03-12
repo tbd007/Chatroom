@@ -2,15 +2,8 @@ body {
   font-family:'Ubuntu', sans-serif;
   background-color: #FA8BFF;
   background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
-
-  /*background:linear-gradient(to right, rgba(168, 165, 165, 0.568), rgba(94, 118, 202, 0.644)),url("https://images.pexels.com/photos/1111368/pexels-photo-1111368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
-  background-repeat:no-repeat;
-  background-size:cover;*/
   padding:30px;
 }
-
-
-
 
 h1 {
   color:black;
